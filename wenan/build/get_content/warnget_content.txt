@@ -4,39 +4,39 @@ missing module named __main__ - imported by pkg_resources
 missing module named multiprocessing.SimpleQueue - imported by multiprocessing, concurrent.futures.process
 missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
 missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
-missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
 missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
-missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
 missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
 missing module named _sysconfigdata - imported by sysconfig
 missing module named 'com.sun' - imported by appdirs
 missing module named com - imported by appdirs
 missing module named __builtin__ - imported by PIL.Image, pyparsing
 missing module named ordereddict - imported by pyparsing
-missing module named 'six.moves.urllib' - imported by 'six.moves.urllib'
 missing module named six.moves.map - imported by six.moves, setuptools, pkg_resources, setuptools.extension, setuptools.dist, setuptools.command.easy_install, setuptools.sandbox, setuptools.package_index, setuptools.ssl_support, setuptools.command.egg_info
+missing module named 'six.moves.urllib' - imported by 'six.moves.urllib'
 missing module named six.moves.filter - imported by six.moves, setuptools, pkg_resources, setuptools.ssl_support, setuptools.command.py36compat
 runtime module named six.moves - imported by setuptools, pkg_resources, 'six.moves.urllib', setuptools.extension, setuptools.dist, setuptools.command.easy_install, setuptools.sandbox, setuptools.command.setopt, setuptools.package_index, setuptools.ssl_support, setuptools.command.egg_info, setuptools.command.py36compat
 missing module named StringIO - imported by six
-missing module named resource - imported by posix, D:\python\baidu\wenan\get_content.py
-missing module named posix - imported by os, D:\python\baidu\wenan\get_content.py
-missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, D:\python\baidu\wenan\get_content.py
-missing module named 'org.python' - imported by pickle, setuptools.sandbox, D:\python\baidu\wenan\get_content.py, xml.sax
-missing module named readline - imported by cmd, code, pdb, D:\python\baidu\wenan\get_content.py
-excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\python\baidu\wenan\get_content.py
-missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\python\baidu\wenan\get_content.py
-missing module named _winreg - imported by platform, appdirs, D:\python\baidu\wenan\get_content.py
+missing module named resource - imported by posix, D:\project\wenan\get_content.py
+missing module named posix - imported by os, D:\project\wenan\get_content.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, D:\project\wenan\get_content.py
+missing module named 'org.python' - imported by pickle, setuptools.sandbox, D:\project\wenan\get_content.py, xml.sax
+missing module named ce - imported by os, D:\project\wenan\get_content.py
+missing module named readline - imported by cmd, code, pdb, D:\project\wenan\get_content.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\project\wenan\get_content.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\project\wenan\get_content.py
+missing module named _winreg - imported by platform, appdirs, D:\project\wenan\get_content.py
 missing module named _scproxy - imported by urllib.request
-missing module named java - imported by platform, D:\python\baidu\wenan\get_content.py
-missing module named 'java.lang' - imported by platform, D:\python\baidu\wenan\get_content.py, xml.sax._exceptions
-missing module named vms_lib - imported by platform, D:\python\baidu\wenan\get_content.py
-missing module named termios - imported by tty, D:\python\baidu\wenan\get_content.py, getpass
+missing module named java - imported by platform, D:\project\wenan\get_content.py
+missing module named 'java.lang' - imported by platform, D:\project\wenan\get_content.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\project\wenan\get_content.py
+missing module named termios - imported by tty, D:\project\wenan\get_content.py, getpass
 missing module named urllib.splittag - imported by urllib, setuptools.py26compat
-missing module named grp - imported by tarfile, shutil, distutils.archive_util, pathlib, D:\python\baidu\wenan\get_content.py
-missing module named org - imported by copy, D:\python\baidu\wenan\get_content.py
-missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, distutils.util, distutils.archive_util, pathlib, D:\python\baidu\wenan\get_content.py, netrc, getpass
-missing module named ce - imported by os, D:\python\baidu\wenan\get_content.py
-missing module named _dummy_threading - imported by dummy_threading, D:\python\baidu\wenan\get_content.py
+missing module named grp - imported by tarfile, shutil, distutils.archive_util, pathlib, D:\project\wenan\get_content.py
+missing module named _dummy_threading - imported by dummy_threading, D:\project\wenan\get_content.py
+missing module named org - imported by copy, D:\project\wenan\get_content.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, distutils.util, distutils.archive_util, pathlib, D:\project\wenan\get_content.py, netrc, getpass
 missing module named Tkinter - imported by PIL.ImageTk
 missing module named 'PySide.QtCore' - imported by PIL.ImageQt
 missing module named 'PyQt4.QtCore' - imported by PIL.ImageQt
